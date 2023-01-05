@@ -17,3 +17,5 @@ Turkish
 ---
 And now I'm gonna pull this line to my own laptop.
 but where is this code line?
+
+Cool, this is some nice info! I am happy to collaborate :)
