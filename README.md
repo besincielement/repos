@@ -3,17 +3,17 @@
 Yesim / 39
 Jimena / 48
 ---
-### Favourite color:
+### Favorite color:
 blue
 ---
 pink
 
-### Favourite language:
+### Favorite language:
 Turkish
 ---
 Spanish
 
-### Favourite Restaurants
+### Favorite Restaurants
 
 - Develi Samatya (Istanbul)
 - Füchschen Brauhaus (Düsseldorf)
