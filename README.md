@@ -36,3 +36,15 @@ Thanks for sharing the file I already added my Bio! :)
 # This is Abdulwase Naeemi and it is something I would like to share with you guys
 
 #this is Jime third attemp to do changes within a new branch
+# This is Abdulwase Naeemi and it is something I would like to share with you guysgit 
+
+# Bio
+- **Name**: Apiradee 
+- **Age** : 44 
+- **Nationality**: Thai 
+- **Favorite Color**: Blue 
+- **Favorite Language**: Japanese 
+- **List of Favorite Restaurants**:
+    - Steak House : _El Gaucho_ 
+    - Italian : _Pomodoro_ 
+    - Japanese : _Izakaya Restaurant_
