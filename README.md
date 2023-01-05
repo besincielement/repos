@@ -36,3 +36,19 @@ Thanks for sharing the file I already added my Bio! :)
 # This is Abdulwase Naeemi and it is something I would like to share with you guys
 
 #this is Jime third attemp to do changes within a new branch
+
+
+#This Section was added by Jamal
+### Name/age:
+Sayed Jamal / 27
+
+### Favorite color:
+blue
+Green,White
+
+### Favorite language:
+Farsi,Turkish,English
+
+### Favorite Restaurants
+
+- No Idea
