@@ -48,3 +48,19 @@ Thanks for sharing the file I already added my Bio! :)
     - Steak House : _El Gaucho_ 
     - Italian : _Pomodoro_ 
     - Japanese : _Izakaya Restaurant_
+
+
+#This Section was added by Jamal
+### Name/age:
+Sayed Jamal / 27
+
+### Favorite color:
+blue
+Green,White
+
+### Favorite language:
+Farsi,Turkish,English
+
+### Favorite Restaurants
+
+- No Idea
